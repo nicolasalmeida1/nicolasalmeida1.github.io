@@ -36,6 +36,7 @@ export function getAllTasks(db){
 
 export function getTaskById(){
     alert("Exibindo uma tarefa")
+    back
 }
 
 //quando for importar do arquivo domFunctions. O JS não sabe quantas funções estão disponíveis.
